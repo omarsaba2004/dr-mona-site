@@ -1,0 +1,10 @@
+# PREVIEW BUILD — crawling disabled until the clinic confirms its contact
+# details and the real domain is in place. To go live, replace the block
+# below with:
+#
+#   User-agent: *
+#   Allow: /
+#   Sitemap: https://<real-domain>/sitemap.xml
+
+User-agent: *
+Disallow: /
